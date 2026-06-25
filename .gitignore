@@ -31,7 +31,6 @@ pom.xml.versionsBackup
 **/target
 **/Californium.properties
 **/Californium3.properties
-**/.env
 .instance_id
 rebuild-docker.sh
 */.run/**
@@ -40,3 +39,6 @@ rebuild-docker.sh
 .claude
 .planning
 *.deb
+ui-ngx/package-lock.json
+config.bat
+node_modules
